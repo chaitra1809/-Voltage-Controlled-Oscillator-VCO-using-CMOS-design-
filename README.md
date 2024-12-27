@@ -1,0 +1,2 @@
+# -Voltage-Controlled-Oscillator-VCO-using-CMOS-design-
+CMOS is also sometimes referred to as complementary symmetry metal oxide semiconductor (or  COS-MOS). The words "complementary-symmetry" refer to the fact that the typical digital design  style with CMOS uses complementary and symmetrical pairs of p-type and n-type metal oxide  semiconductor field effect transistor (MOSFETs) for logic functions.  
